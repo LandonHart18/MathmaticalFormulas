@@ -1,0 +1,26 @@
+C:\Users\belld\source\repos\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.exe
+C:\Users\belld\source\repos\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.deps.json
+C:\Users\belld\source\repos\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.runtimeconfig.json
+C:\Users\belld\source\repos\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.runtimeconfig.dev.json
+C:\Users\belld\source\repos\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.dll
+C:\Users\belld\source\repos\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.pdb
+C:\Users\belld\source\repos\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.csprojAssemblyReference.cache
+C:\Users\belld\source\repos\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.AssemblyInfoInputs.cache
+C:\Users\belld\source\repos\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.AssemblyInfo.cs
+C:\Users\belld\source\repos\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.csproj.CoreCompileInputs.cache
+C:\Users\belld\source\repos\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.dll
+C:\Users\belld\source\repos\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.pdb
+C:\Users\belld\source\repos\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.genruntimeconfig.cache
+G:\Visual Studio\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.exe
+G:\Visual Studio\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.deps.json
+G:\Visual Studio\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.runtimeconfig.json
+G:\Visual Studio\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.runtimeconfig.dev.json
+G:\Visual Studio\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.dll
+G:\Visual Studio\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.pdb
+G:\Visual Studio\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.csprojAssemblyReference.cache
+G:\Visual Studio\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.AssemblyInfoInputs.cache
+G:\Visual Studio\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.AssemblyInfo.cs
+G:\Visual Studio\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.csproj.CoreCompileInputs.cache
+G:\Visual Studio\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.dll
+G:\Visual Studio\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.pdb
+G:\Visual Studio\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.genruntimeconfig.cache
